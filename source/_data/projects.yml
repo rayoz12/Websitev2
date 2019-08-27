@@ -1,0 +1,35 @@
+projects:
+  - name: Submarine Project
+    description: 
+    tech_used:
+      - IoT
+      - Raspberry Pi
+      - Python
+      - Sensors
+      - HTML
+  - name: Smart Restaurant System
+    description: 
+    tech_used:
+      - Python
+      - Java
+      - Smart Robot
+      - Angular
+      - SQLite
+  - name: Smart Trolley System
+    description: 
+    tech_used:
+      - Java
+      - NFC
+      - MongoDB
+  - name: Digital Energy Meter
+    description: 
+    tech_used:
+      - C
+      - Microcontrollers
+      - Assembly
+      - Signal Processing
+  - name: UTS Timetable
+    description: 
+    tech_used:
+      - Java
+      - JavaFX
