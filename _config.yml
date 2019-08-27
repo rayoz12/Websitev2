@@ -4,7 +4,7 @@
 
 # Site
 title: Ryan Pereira
-subtitle: A Personal Blog
+subtitle: Ryan Pereira - A Portfolio
 description:
 keywords:
 author: Ryan Pereira
@@ -84,6 +84,7 @@ theme_config:
       Professional Experience: /professional-experience/
       Academic Experience: /academic-experience/
       About: /about/
+      Resume: /resume/
       Archives: /archives/
     blog_title:  
   post:
@@ -101,7 +102,16 @@ theme_config:
     comments: 
       enable: false
       type: disqus  # available: disqus | valine
-
+  about: 
+    banner_img: /img/about.jpg
+    banner_img_height: 80  # available: 0 - 100
+    avatar: /img/avatar.png 
+    name: Ryan Pereira
+    introduce: .
+    icons: # Font awesome icons
+      "fab fa-github": https://github.com/rayoz12
+      "fab fa-linkedin": https://www.linkedin.com/in/ryanjpereira/
+      "fab fa-email": "mailto:ryan@ryanjpereira.com"
 
     
 
