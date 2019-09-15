@@ -112,6 +112,9 @@ theme_config:
       "fab fa-github": https://github.com/rayoz12
       "fab fa-linkedin": https://www.linkedin.com/in/ryanjpereira/
       "fab fa-email": "mailto:ryan@ryanjpereira.com"
+  favicon: /assets/img/favicon/favicon-32x32.png
+  
+
 
     
 
