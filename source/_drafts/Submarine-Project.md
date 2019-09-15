@@ -1,6 +1,7 @@
 ---
 title: Submarine Project
 banner_img: ./all_subs.jpg
+index_img: ./projects/img/submarine.png
 excerpt: A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a working submarine.
 categories: 
     - [IoT]

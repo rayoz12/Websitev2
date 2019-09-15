@@ -2,7 +2,19 @@
 title: Smart Restaurant System
 date: 2019-08-27 17:28:34
 banner_img: ./pathfinding2.png
-tags:
+index_img: ./projects/img/robot1.png
+excerpt: 
+    Applications of Robotic pathfinding in a completely digital system
+categories: 
+    - [Software Engineering]
+    - [IoT]
+    - [Java]
+    - [Embedded]
+tags: 
+    - IoT
+    - Robotics
+    - Java
+    - PathFinding
 ---
 # Smart Restaurant System
 
@@ -40,7 +52,7 @@ because I wanted to learn how to use software in a highly connected by robotic a
 ![Robotic Humanoid we used](./robot1.png)
 <p style="text-align: center">Programming the camera on the robot</p>
 
-A few of the features on the robot:
+A few of the features on the IPal Robot:
 - 2MP camera
 - Android OS
 - 3" Tablet
@@ -136,5 +148,17 @@ success.
 <p style="text-align: center">Visualised</p>
 
 ## Implementation on the Robot
-Implementation on the robot was by taking using motor API which allowed us to move and rotate the robot.
+On the robot the movement was implemented using the available Java IPal API's.
+Some considerations & assumptions had to be made to implement this system on the robot:
+- A badly designed aspect of the API however was that it operated on time to move the motors
+rather than distance.
+- Real world distance between nodes or grids from the graph representation was going to be
+1 Metre
+- Diagonal movement is allowed if the software detected it
+- The robot would always start at a known point
+
+It was easy to implement it according a logical flowchart that was drawn up.
+![Implementation Flow Chart](./graph.png)
+<p style="text-align: center">Implementation Flowchart</p>
+
 
