@@ -101,7 +101,7 @@ theme_config:
     comments: 
       enable: false
       type: disqus  # available: disqus | valine
-  favicon: /assets/img/favicon-32x32.png
+  favicon: /assets/img/favicon/favicon-32x32.png
   
 
 
