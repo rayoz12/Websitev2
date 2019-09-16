@@ -1,6 +1,7 @@
 ---
 title: Projects
 date: 2019-08-11 15:08:16
+banner_img_height: 70
 ---
 
 {% raw %}

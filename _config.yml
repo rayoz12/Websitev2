@@ -103,16 +103,52 @@ theme_config:
       enable: false
       type: disqus  # available: disqus | valine
   about: 
-    banner_img: /img/about.jpg
+    banner_img: /assets/img/about.jpg 
     banner_img_height: 80  # available: 0 - 100
-    avatar: /img/avatar.png 
+    avatar: /assets/img/avatar.jpg 
     name: Ryan Pereira
-    introduce: .
+    introduce: Software Engineering Student / University of Technology, Sydney / 3.4 GPA, 80 WAM
     icons: # Font awesome icons
       "fab fa-github": https://github.com/rayoz12
       "fab fa-linkedin": https://www.linkedin.com/in/ryanjpereira/
-      "fab fa-email": "mailto:ryan@ryanjpereira.com"
+      "fas fa-envelope": "mailto:ryan@ryanjpereira.com"
   favicon: /assets/img/favicon/favicon-32x32.png
+  professional_experiences:
+    page:
+      banner_img: /assets/img/professional-experience/Thales-work.jpg
+      banner_img_height: 70
+    jobs:
+      - 
+        name: Thales
+        logo: /assets/img/professional-experience/thales.jpg
+        description: |+
+          - Realising a complex engineering testing tool which interfaces with a drone management and validation <br/>
+          system to simulate 100's of drones as a Software Engineer in a team of 3. <br/>
+          - Created and maintaining 4 reusable networking libraries and a major Front-End map component implemented across projects. <br/>
+          - Implementing the MEAN Stack including an implementation of a complex REST & STOMP Interface. <br/>
+        role: Software Engineering Intern
+        dates: July 2018 - Present
+        tech: JavaScript/TypeScript, Angular, Git, MongoDB, C++, Unreal Engine
+      - 
+        name: OzEducation
+        logo: /assets/img/professional-experience/OzEducation.jpg
+        description: |+
+          - Primary developer a large-scale Childcare Management System serving 8 childcare centres and 1 administration branch. <br/>
+          - Performed Requirements Analysis through 6 sprints to write up 30+ issues. <br/>
+          - Developed a demonstrable prototype within 6 months;extended it to target the Chinese market in 4 months.
+        role: Software Engineering Intern
+        dates: January 2017 - November 2017
+        tech: NodeJS, JavaScript, AngularJS, SQL, Android, NFC, DevOps, Alibaba Cloud
+      - 
+        name: Abuzz Solutions
+        logo: /assets/img/professional-experience/abuzz.jpg
+        description: |+
+          -	Developed programs and scripts to enhance and automate digital workflow. <br/>
+          -	Automated the common task of importing store lists to save 2 days' worth of manual data entry time. <br/>
+          -	Implemented a basic scripting language in Java. <br/>
+        role: Software Engineering Intern
+        dates: August 2016 - January 2017
+        tech: Java, BASH and JavaScript
   
 
 

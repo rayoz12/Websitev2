@@ -1,6 +1,8 @@
 ---
 title: Academic Experience
 date: 2019-08-27 13:29:19
+banner_img: /assets/img/Team_Photo.jpg
+banner_img_height: 70
 ---
 
 {% raw %}
