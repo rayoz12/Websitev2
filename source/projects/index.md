@@ -23,7 +23,7 @@ banner_img_height: 70
               <!-- Text -->
               <p class="card-text">A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a working submarine.</p>
               <!-- Button -->
-              <a href="/2019/08/27/Submarine-Project/" class="btn btn-primary">View</a>
+              <a href="/2019/09/16/Submarine-Project/" class="btn btn-primary">View</a>
           </div>
         </div>
     </div>
@@ -60,7 +60,7 @@ banner_img_height: 70
               <!-- Text -->
               <p class="card-text">I was given the task to create a digital energy meter on the Freescale K70 microcontroller which tracked usage, cost and communication..</p>
               <!-- Button -->
-              <a href="/2019/08/27/Submarine-Project/" class="btn btn-primary">View</a>
+              <a href="/2019/08/28/Digital-Energy-Meter/" class="btn btn-primary">View</a>
           </div>
         </div>
     </div>

@@ -22,7 +22,7 @@ I've completed a number of projects while at University. Below is a list of a th
               <!-- Text -->
               <p class="card-text">A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a working submarine.</p>
               <!-- Button -->
-              <a href="/2019/08/27/Submarine-Project/" class="btn btn-primary">View</a>
+              <a href="/2019/09/16/Submarine-Project/" class="btn btn-primary">View</a>
           </div>
         </div>
     </div>
