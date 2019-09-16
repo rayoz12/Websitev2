@@ -15,7 +15,7 @@ banner_img_height: 70
         <!-- Card -->
         <div class="card">
           <!-- Card image -->
-          <img class="card-img-top" src="/projects/img/robot1.png" alt="Card image cap">
+          <img class="card-img-top" src="/projects/img/submarine.png" alt="Card image cap">
           <!-- Card content -->
           <div class="card-body">
               <!-- Title -->
@@ -32,7 +32,7 @@ banner_img_height: 70
         <!-- Card -->
         <div class="card">
           <!-- Card image -->
-          <img class="card-img-top" src="/projects/img/submarine.png" alt="Card image cap">
+          <img class="card-img-top" src="/projects/img/robot1.png" alt="Card image cap">
           <!-- Card content -->
           <div class="card-body">
               <!-- Title -->
@@ -46,5 +46,24 @@ banner_img_height: 70
     </div>
   </div>
 </div>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+        <!-- Card -->
+        <div class="card">
+          <!-- Card image -->
+          <img class="card-img-top" src="/projects/img/DSO_Signal.jpg" alt="Card image cap">
+          <!-- Card content -->
+          <div class="card-body">
+              <!-- Title -->
+              <h4 class="card-title"><a>Digital Energy Meter</a></h4>
+              <!-- Text -->
+              <p class="card-text">I was given the task to create a digital energy meter on the Freescale K70 microcontroller which tracked usage, cost and communication..</p>
+              <!-- Button -->
+              <a href="/2019/08/27/Submarine-Project/" class="btn btn-primary">View</a>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
 {% endraw %}
