@@ -4,6 +4,10 @@ date: 2019-08-11 15:08:16
 banner_img_height: 70
 ---
 
+### Please checkout my GitHub page for all the code projects I've completed
+## [Click me to go to it!](https://github.com/rayoz12)
+
+---
 {% raw %}
 <div class="container">
   <div class="row">
