@@ -121,6 +121,7 @@ theme_config:
     jobs:
       - 
         name: Thales
+        link: https://www.thalesgroup.com/en/countries/asia-pacific/australia
         logo: /assets/img/professional-experience/thales.jpg
         description: |+
           - Realising a complex engineering testing tool which interfaces with a drone management and validation <br/>
@@ -132,6 +133,7 @@ theme_config:
         tech: JavaScript/TypeScript, Angular, Git, MongoDB, C++, Unreal Engine
       - 
         name: OzEducation
+        link: https://www.ozeducation.com.au/
         logo: /assets/img/professional-experience/OzEducation.jpg
         description: |+
           - Primary developer a large-scale Childcare Management System serving 8 childcare centres and 1 administration branch. <br/>
@@ -142,6 +144,7 @@ theme_config:
         tech: NodeJS, JavaScript, AngularJS, SQL, Android, NFC, DevOps, Alibaba Cloud
       - 
         name: Abuzz Solutions
+        link: https://abuzzsolutions.com/
         logo: /assets/img/professional-experience/abuzz.jpg
         description: |+
           -	Developed programs and scripts to enhance and automate digital workflow. <br/>

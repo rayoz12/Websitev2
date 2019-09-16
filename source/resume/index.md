@@ -1,8 +1,9 @@
 ---
 title: Resume
 date: 2019-08-28 00:25:44
+banner_img_height: 70
 ---
-# {{ title }}
+
 
 {% raw %}
 <object data="Resume - Ryan Pereira v3.pdf" type="application/pdf" width="100%" height="750px">
