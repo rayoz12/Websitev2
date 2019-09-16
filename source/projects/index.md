@@ -11,31 +11,32 @@ banner_img_height: 70
         <!-- Card -->
         <div class="card">
           <!-- Card image -->
-          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+          <img class="card-img-top" src="/projects/img/robot1.png" alt="Card image cap">
           <!-- Card content -->
           <div class="card-body">
               <!-- Title -->
-              <h4 class="card-title"><a>Card title</a></h4>
+              <h4 class="card-title"><a>Submarine Project</a></h4>
               <!-- Text -->
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <p class="card-text">A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a working submarine.</p>
               <!-- Button -->
-              <a href="#" class="btn btn-primary">Button</a>
+              <a href="/2019/08/27/Submarine-Project/" class="btn btn-primary">View</a>
           </div>
         </div>
     </div>
+    <!-- New Card -->
     <div class="col-md-6">
         <!-- Card -->
         <div class="card">
           <!-- Card image -->
-          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+          <img class="card-img-top" src="/projects/img/submarine.png" alt="Card image cap">
           <!-- Card content -->
           <div class="card-body">
               <!-- Title -->
-              <h4 class="card-title"><a>Card title</a></h4>
+              <h4 class="card-title"><a>Smart Restaurant System</a></h4>
               <!-- Text -->
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <p class="card-text">Applications of Robotic pathfinding in a completely digital system</p>
               <!-- Button -->
-              <a href="#" class="btn btn-primary">Button</a>
+              <a href="/2019/08/27/Smart-Restaurant-System/" class="btn btn-primary">View</a>
           </div>
         </div>
     </div>
