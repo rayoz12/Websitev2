@@ -1,21 +1,21 @@
 ---
 title: Smart Restaurant System
-date: 2019-08-27 17:28:34
+tags:
+  - IoT
+  - Robotics
+  - Java
+  - PathFinding
 banner_img: ./pathfinding2.png
 index_img: ./projects/img/robot1.png
-excerpt: 
-    Applications of Robotic pathfinding in a completely digital system
-categories: 
-    - [Software Engineering]
-    - [IoT]
-    - [Java]
-    - [Embedded]
-tags: 
-    - IoT
-    - Robotics
-    - Java
-    - PathFinding
+excerpt: Applications of Robotic pathfinding in a completely digital system
+categories:
+  - - Software Engineering
+  - - IoT
+  - - Java
+  - - Embedded
+date: 2019-08-27 17:28:34
 ---
+
 # Smart Restaurant System
 
 ## Applications of Robotic pathfinding in a completely digital system

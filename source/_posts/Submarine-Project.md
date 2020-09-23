@@ -1,18 +1,22 @@
 ---
 title: Submarine Project
+tags:
+  - IoT
+  - Raspberry Pi
+  - Python
+  - Sensors
+  - Submarine
 banner_img: ./all_subs.jpg
 index_img: ./projects/img/submarine.png
-excerpt: A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a working submarine.
-categories: 
-    - [IoT]
-    - [Python]
-tags: 
-    - IoT
-    - Raspberry Pi
-    - Python
-    - Sensors
-    - Submarine
+excerpt: >-
+  A DIY adventure of using a Pi, Python and Pipes over 5 weeks to deliver a
+  working submarine.
+categories:
+  - - IoT
+  - - Python
+date: 2020-09-23 10:28:23
 ---
+
 
 # Remote Operated underwater Vehicle using the building blocks of IoT
 

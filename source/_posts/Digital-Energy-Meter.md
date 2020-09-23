@@ -1,21 +1,22 @@
 ---
 title: Digital Energy Meter
-date: 2019-08-28 17:28:34
+tags:
+  - IoT
+  - C
+  - C++
 banner_img: ./banner.jpg
 index_img: ./projects/img/DSO_Signal.jpg
 excerpt: >
-    I was given the task to create a digital energy meter on the Freescale K70 microcontroller.
-    which tracked usage, cost and communication.
-categories: 
-    - [Embedded]
-    - [IoT]
-    - [C]
-    - [C++]
-tags: 
-    - IoT
-    - C
-    - C++
+  I was given the task to create a digital energy meter on the Freescale K70
+  microcontroller. which tracked usage, cost and communication.
+categories:
+  - - Embedded
+  - - IoT
+  - - C
+  - - C++
+date: 2019-08-28 17:28:34
 ---
+
 
 # Embedded Development
 
