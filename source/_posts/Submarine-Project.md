@@ -6,6 +6,7 @@ tags:
   - Python
   - Sensors
   - Submarine
+  - Articles
 banner_img: ./all_subs.jpg
 index_img: ./projects/img/submarine.png
 excerpt: >-
@@ -14,6 +15,7 @@ excerpt: >-
 categories:
   - - IoT
   - - Python
+  - - Articles
 date: 2020-09-23 10:28:23
 ---
 

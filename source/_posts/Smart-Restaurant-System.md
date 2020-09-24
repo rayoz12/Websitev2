@@ -5,6 +5,7 @@ tags:
   - Robotics
   - Java
   - PathFinding
+  - Articles
 banner_img: ./pathfinding2.png
 index_img: ./projects/img/robot1.png
 excerpt: Applications of Robotic pathfinding in a completely digital system
@@ -13,6 +14,7 @@ categories:
   - - IoT
   - - Java
   - - Embedded
+  - - Articles
 date: 2019-08-27 17:28:34
 ---
 

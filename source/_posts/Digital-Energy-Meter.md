@@ -4,6 +4,7 @@ tags:
   - IoT
   - C
   - C++
+  - Articles
 banner_img: ./banner.jpg
 index_img: ./projects/img/DSO_Signal.jpg
 excerpt: >
@@ -14,6 +15,7 @@ categories:
   - - IoT
   - - C
   - - C++
+  - - Articles
 date: 2019-08-28 17:28:34
 ---
 
